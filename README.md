@@ -41,3 +41,4 @@ I am Backend Python Developer from Kyrgyzstan :kyrgyzstan:
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Belekov-Aden&theme=blux&border_radius=5)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Belekov-Aden-github-Belekov-Aden&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
