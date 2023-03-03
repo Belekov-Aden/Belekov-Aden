@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/GitLab-black?logo=gitlab&ogoColor=black" alt="GitLab Badge"/>
   </a>
 </div>
-<h1 align='cente'>
+<h1 align='center'>
   Zero to hero
 </h1>
 
