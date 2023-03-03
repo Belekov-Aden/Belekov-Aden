@@ -15,8 +15,9 @@
 <h1 align='cente'>
   Zero to hero
 </h1>
+
 ### :man_technologist: About Me :
-I am Backend Python Developer from Kyrgyzstan :kyrgyzstan
-- :snowboarder I seventeen, I love snowboarding 
-- :parachute Also I am a parachutist athlete
-- :man_technologist I write in Python
+I am Backend Python Developer from Kyrgyzstan :kyrgyzstan:
+- :snowboarder: I seventeen, I love snowboarding 
+- :parachute: Also I am a parachutist athlete
+- :man_technologist: I write in Python
