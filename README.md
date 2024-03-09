@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me :
 I am Backend Python Developer from Kyrgyzstan :kyrgyzstan:
-- :snowboarder: I seventeen, I love snowboarding 
+- :snowboarder: I 18, I love snowboarding 
 - :parachute: Also I am a parachutist athlete
 - :man_technologist: I write in Python
 
